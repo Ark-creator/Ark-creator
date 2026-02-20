@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sigrae%20Derf%20Gabriel&fontAlign=50&fontAlignY=35&desc=A%20Fullstack%20Developer%20With%20a%20Myriad%20of%20Expertise!&descAlign=50&descAlignY=55&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Romark%20Bayan&fontAlign=50&fontAlignY=35&desc=A%20Fullstack%20Developer%20With%20a%20Myriad%20of%20Expertise!&descAlign=50&descAlignY=55&color=gradient" />
 
   <p>
     <a href="mailto:sde.romark7bayan@gmail.com">
