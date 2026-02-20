@@ -80,8 +80,12 @@
 
 </div>
 
+---
+
+# ♟️ Play Chess With Me!
+
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  
 </div>
 
 ---
