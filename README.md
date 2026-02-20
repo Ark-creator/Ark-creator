@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Email-romark7bayan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://romark-bayan-online-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /> -->
     </a>
   </p>
 
